@@ -1,0 +1,61 @@
+{
+    "project_name": "MiProyecto",
+    "base_dir": "C:/Users/yo/Desktop",
+    "main_folder": "ProyectoPrincipal",
+    "directories": [
+        {
+            "path": "src",
+            "type": "directory",
+            "subdirectories": [
+                {
+                    "path": "components",
+                    "type": "directory"
+                },
+                {
+                    "path": "services",
+                    "type": "directory"
+                }
+            ]
+        },
+        {
+            "path": "tests",
+            "type": "directory"
+        },
+        {
+            "path": "docs",
+            "type": "directory"
+        }
+    ],
+    "files": [
+        {
+            "path": "src/main.py",
+            "type": "file",
+            "content": "# Punto de entrada principal para la aplicación"
+        },
+        {
+            "path": "src/components/__init__.py",
+            "type": "file",
+            "content": ""
+        },
+        {
+            "path": "src/services/__init__.py",
+            "type": "file",
+            "content": ""
+        },
+        {
+            "path": "README.md",
+            "type": "file",
+            "content": "# MiProyecto\n\nDescripción del proyecto."
+        },
+        {
+            "path": ".gitignore",
+            "type": "file",
+            "content": "venv/\n__pycache__/\n*.pyc\n.env"
+        }
+    ],
+    "settings": {
+        "open_vscode": true,
+        "show_progress": true,
+        "auto_open_explorer": true
+    }
+}
