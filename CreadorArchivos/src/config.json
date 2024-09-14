@@ -1,144 +1,16 @@
 [
     {
         "type": "directory",
-        "path": "ProBestoJarvisAI"
+        "path": "Prueba"
     },
     {
         "type": "directory",
-        "path": "ProBestoJarvisAI/backend"
+        "path": "Prueba/backend"
     },
     {
         "type": "file",
-        "path": "ProBestoJarvisAI/backend/manage.py",
-        "content": "# manage.py\n\nif __name__ == '__main__':\n    pass"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/backend"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/backend/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/backend/settings.py",
-        "content": "# settings.py\n\nINSTALLED_APPS = []"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/backend/urls.py",
-        "content": "# urls.py\n\nfrom django.urls import path\n\nurlpatterns = []"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/backend/wsgi.py",
-        "content": "# wsgi.py\n\nfrom django.core.wsgi import get_wsgi_application\n\napplication = get_wsgi_application()"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/facial_recognition"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/facial_recognition/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/facial_recognition/recognition.py",
-        "content": "# recognition.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/facial_recognition/utils.py",
-        "content": "# utils.py\n"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/voice_cloning"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/voice_cloning/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/voice_cloning/cloning.py",
-        "content": "# cloning.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/voice_cloning/nlp.py",
-        "content": "# nlp.py\n"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/gpt_requests"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/gpt_requests/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/gpt_requests/gpt_handler.py",
-        "content": "# gpt_handler.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/gpt_requests/optimizer.py",
-        "content": "# optimizer.py\n"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/ia_training"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/ia_training/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/ia_training/trainer.py",
-        "content": "# trainer.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/ia_training/error_finder.py",
-        "content": "# error_finder.py\n"
-    },
-    {
-        "type": "directory",
-        "path": "ProBestoJarvisAI/backend/pc_management"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/pc_management/__init__.py",
-        "content": "# __init__.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/pc_management/wake_on_lan.py",
-        "content": "# wake_on_lan.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/pc_management/resource_manager.py",
-        "content": "# resource_manager.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/backend/pc_management/cplusplus_converter.py",
-        "content": "# cplusplus_converter.py\n"
-    },
-    {
-        "type": "file",
-        "path": "ProBestoJarvisAI/README.md",
-        "content": "# ProBestoJarvisAI\n\nDescripción del proyecto."
+        "path": "Prueba/backend/manage.py",
+        "content": "# Funciona el Creador\n\nif __name__ == '__main__':\n    pass"
     }
+
 ]
