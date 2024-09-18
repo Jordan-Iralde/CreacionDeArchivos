@@ -1,16 +1,87 @@
 [
     {
         "type": "directory",
-        "path": "Prueba"
+        "path": "my_python_os"
     },
     {
         "type": "directory",
-        "path": "Prueba/backend"
+        "path": "my_python_os/kernel"
     },
     {
         "type": "file",
-        "path": "Prueba/backend/manage.py",
-        "content": "# Funciona el Creador\n\nif __name__ == '__main__':\n    pass"
+        "path": "my_python_os/kernel/process_manager.py",
+        "content": "# Manejador de procesos"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/kernel/memory_manager.py",
+        "content": "# Gestor de memoria"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/kernel/file_system.py",
+        "content": "# Sistema de archivos básico"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/kernel/io_manager.py",
+        "content": "# Manejo de dispositivos"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/kernel/interrupt_manager.py",
+        "content": "# Manejador de interrupciones"
+    },
+    {
+        "type": "directory",
+        "path": "my_python_os/shell"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/shell/shell.py",
+        "content": "# Intérprete de comandos"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/shell/commands.py",
+        "content": "# Implementación de comandos del sistema"
+    },
+    {
+        "type": "directory",
+        "path": "my_python_os/devices"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/devices/keyboard.py",
+        "content": "# Simulación de dispositivo de entrada"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/devices/screen.py",
+        "content": "# Simulación de dispositivo de salida"
+    },
+    {
+        "type": "directory",
+        "path": "my_python_os/tests"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/tests/test_processes.py",
+        "content": "# Pruebas del gestor de procesos"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/tests/test_memory.py",
+        "content": "# Pruebas del gestor de memoria"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/tests/test_filesystem.py",
+        "content": "# Pruebas del sistema de archivos"
+    },
+    {
+        "type": "file",
+        "path": "my_python_os/main.py",
+        "content": "# Punto de entrada del sistema operativo"
     }
-
 ]
