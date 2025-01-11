@@ -1,0 +1,372 @@
+[
+    {
+        "type": "directory",
+        "path": "GameProject/Assets",
+        "files": [
+            {
+                "type": "file",
+                "path": "Assets.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Art",
+        "files": [
+            {
+                "type": "file",
+                "path": "Art.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Art/Sprites",
+        "files": [
+            {
+                "type": "file",
+                "path": "Sprites.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Art/Tilesets",
+        "files": [
+            {
+                "type": "file",
+                "path": "Tilesets.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Art/UI",
+        "files": [
+            {
+                "type": "file",
+                "path": "UI.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Art/ConceptArt",
+        "files": [
+            {
+                "type": "file",
+                "path": "ConceptArt.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Audio",
+        "files": [
+            {
+                "type": "file",
+                "path": "Audio.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Audio/Music",
+        "files": [
+            {
+                "type": "file",
+                "path": "Music.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Audio/SFX",
+        "files": [
+            {
+                "type": "file",
+                "path": "SFX.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Audio/VoiceOvers",
+        "files": [
+            {
+                "type": "file",
+                "path": "VoiceOvers.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Fonts",
+        "files": [
+            {
+                "type": "file",
+                "path": "Fonts.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Prefabs",
+        "files": [
+            {
+                "type": "file",
+                "path": "Prefabs.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Shaders",
+        "files": [
+            {
+                "type": "file",
+                "path": "Shaders.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Materials",
+        "files": [
+            {
+                "type": "file",
+                "path": "Materials.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Scenes",
+        "files": [
+            {
+                "type": "file",
+                "path": "Scenes.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Plugins",
+        "files": [
+            {
+                "type": "file",
+                "path": "Plugins.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Assets/Tests",
+        "files": [
+            {
+                "type": "file",
+                "path": "Tests.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code",
+        "files": [
+            {
+                "type": "file",
+                "path": "Code.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/Core",
+        "files": [
+            {
+                "type": "file",
+                "path": "Core.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/Gameplay",
+        "files": [
+            {
+                "type": "file",
+                "path": "Gameplay.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/UI",
+        "files": [
+            {
+                "type": "file",
+                "path": "UI.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/AI",
+        "files": [
+            {
+                "type": "file",
+                "path": "AI.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/Tools",
+        "files": [
+            {
+                "type": "file",
+                "path": "Tools.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Code/Tests",
+        "files": [
+            {
+                "type": "file",
+                "path": "Tests.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Docs",
+        "files": [
+            {
+                "type": "file",
+                "path": "Docs.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Docs/GameDesign",
+        "files": [
+            {
+                "type": "file",
+                "path": "GameDesign.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Docs/TechnicalDesign",
+        "files": [
+            {
+                "type": "file",
+                "path": "TechnicalDesign.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Docs/ArtDesign",
+        "files": [
+            {
+                "type": "file",
+                "path": "ArtDesign.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Docs/MeetingNotes",
+        "files": [
+            {
+                "type": "file",
+                "path": "MeetingNotes.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Builds",
+        "files": [
+            {
+                "type": "file",
+                "path": "Builds.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Builds/Windows",
+        "files": [
+            {
+                "type": "file",
+                "path": "Windows.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Builds/Mac",
+        "files": [
+            {
+                "type": "file",
+                "path": "Mac.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Builds/Linux",
+        "files": [
+            {
+                "type": "file",
+                "path": "Linux.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Builds/WebGL",
+        "files": [
+            {
+                "type": "file",
+                "path": "WebGL.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Logs",
+        "files": [
+            {
+                "type": "file",
+                "path": "Logs.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Logs/ErrorReports",
+        "files": [
+            {
+                "type": "file",
+                "path": "ErrorReports.md"
+            }
+        ]
+    },
+    {
+        "type": "directory",
+        "path": "GameProject/Marketing",
+        "files": [
+            {
+                "type": "file",
+                "path": "Marketing.md"
+            }
+        ]
+    }
+]
